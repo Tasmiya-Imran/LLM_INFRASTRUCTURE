@@ -1,0 +1,13 @@
+User_ID,Deployed_Model,API_Hits,Input_Tokens,Output_Tokens,Core_Spend_USD,Model_Category_Total_Pool_USD,Cost_Contribution_Percentage
+usr_key_7785,claude-3-5-sonnet,86,70335,31914,0.69,2.6,26.54
+usr_key_4431,claude-3-5-sonnet,82,58815,33508,0.68,2.6,26.13
+usr_key_9021,claude-3-5-sonnet,70,50387,32034,0.63,2.6,24.31
+usr_key_1102,claude-3-5-sonnet,66,49350,30020,0.6,2.6,23.02
+usr_key_7785,gemma-2-27b-it,78,64401,39796,0.04,0.14,26.82
+usr_key_1102,gemma-2-27b-it,81,80177,29985,0.03,0.14,24.83
+usr_key_4431,gemma-2-27b-it,83,55450,38191,0.03,0.14,24.81
+usr_key_9021,gemma-2-27b-it,76,54637,35542,0.03,0.14,23.53
+usr_key_7785,gpt-4o,94,73589,45698,1.05,3.81,27.64
+usr_key_9021,gpt-4o,89,78236,43296,1.04,3.81,27.3
+usr_key_1102,gpt-4o,98,67613,42328,0.97,3.81,25.53
+usr_key_4431,gpt-4o,72,57768,30363,0.74,3.81,19.53
