@@ -1,0 +1,8 @@
+{
+  "rows_received": 2500,
+  "duplicate_request_ids": 0,
+  "missing_required_values": 0,
+  "invalid_status_codes": 0,
+  "negative_token_values": 0,
+  "invalid_timestamps": 0
+}

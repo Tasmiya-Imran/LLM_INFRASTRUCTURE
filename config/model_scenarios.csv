@@ -1,0 +1,4 @@
+model_tier,input_usd_per_million,output_usd_per_million,scenario_note
+economy,0.20,0.60,Illustrative assumption only; not a provider price
+standard,3.00,15.00,Illustrative assumption only; not a provider price
+premium,5.00,15.00,Illustrative assumption only; not a provider price

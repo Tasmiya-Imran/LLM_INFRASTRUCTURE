@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,sans-serif;fill:#263746}.title{font-size:20px;font-weight:700}.label{font-size:12px}</style>
+<text class="title" x="65" y="30">Daily request error rate</text>
+<line x1="65" y1="345.0" x2="870" y2="345.0" stroke="#e7edf0"/>
+<text class="label" text-anchor="end" x="55" y="349.0">0%</text>
+<line x1="65" y1="287.0" x2="870" y2="287.0" stroke="#e7edf0"/>
+<text class="label" text-anchor="end" x="55" y="291.0">2%</text>
+<line x1="65" y1="229.0" x2="870" y2="229.0" stroke="#e7edf0"/>
+<text class="label" text-anchor="end" x="55" y="233.0">4%</text>
+<line x1="65" y1="171.0" x2="870" y2="171.0" stroke="#e7edf0"/>
+<text class="label" text-anchor="end" x="55" y="175.0">6%</text>
+<line x1="65" y1="113.0" x2="870" y2="113.0" stroke="#e7edf0"/>
+<text class="label" text-anchor="end" x="55" y="117.0">8%</text>
+<line x1="65" y1="55.0" x2="870" y2="55.0" stroke="#e7edf0"/>
+<text class="label" text-anchor="end" x="55" y="59.0">10%</text>
+<polyline fill="none" stroke="#B24C3E" stroke-width="3" points="65.0,269.6 92.8,187.5 120.5,183.8 148.3,246.1 176.0,316.0 203.8,277.4 231.6,309.3 259.3,311.6 287.1,313.1 314.8,211.0 342.6,224.1 370.3,273.4 398.1,267.6 425.9,216.2 453.6,308.2 481.4,229.0 509.1,231.9 536.9,194.5 564.7,161.4 592.4,237.7 620.2,314.6 647.9,274.2 675.7,309.3 703.4,224.1 731.2,267.6 759.0,243.8 786.7,306.4 814.5,153.9 842.2,278.3 870.0,243.8"/>
+<circle cx="65.0" cy="269.6" r="4" fill="#B24C3E"/>
+<text class="label" text-anchor="middle" x="65.0" y="382">2026-09-01</text>
+<circle cx="481.4" cy="229.0" r="4" fill="#B24C3E"/>
+<text class="label" text-anchor="middle" x="481.4" y="382">2026-09-16</text>
+<circle cx="870.0" cy="243.8" r="4" fill="#B24C3E"/>
+<text class="label" text-anchor="middle" x="870.0" y="382">2026-09-30</text>
+<text class="label" x="65" y="405">Non-200 requests / all requests</text>
+</svg>
