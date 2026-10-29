@@ -62,3 +62,8 @@ See the [sample findings](reports/findings.md) for the exact results and limitat
 ## Limitations and next steps
 
 This is a portfolio demonstration, not a live monitoring service. It does not call model APIs, store secrets, stream events, or model retries and partial billing. To adapt the workflow to real data, replace the generator with an approved export, confirm provider billing rules and current rates, and validate metric definitions with the data owner.
+
+## Additional portfolio project
+
+- [E-commerce Customer Retention & Revenue Analytics](ecommerce-retention-analytics/README.md) - synthetic-data practice project using Python, SQLite, cohort retention, monthly performance, channel comparison, and RFM segmentation.
+
